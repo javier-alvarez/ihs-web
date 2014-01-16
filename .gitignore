@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ihs.web/bin
+/ihs.web/FederationMetadata/2007-06
+/ihs.web/obj
+/ihs.web/Properties/PublishProfiles
+*.user
+/packages
+*.suo
